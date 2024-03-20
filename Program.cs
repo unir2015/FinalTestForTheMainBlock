@@ -3,7 +3,7 @@ class Program
 {
     static void Main()
     {
-        
+
 
         Console.WriteLine("Хотите ввести свой массив строк? (y/n)");
         string choice = Console.ReadLine();
@@ -16,7 +16,7 @@ class Program
             {
                 Console.WriteLine("Введите строки. Для завершения ввода введите пустую строку:");
 
-                string[] tempArray = new string[100]; 
+                string[] tempArray = new string[100];
 
                 int currentIndex = 0;
 
@@ -77,5 +77,5 @@ class Program
 
 
 
-    
+
 }
