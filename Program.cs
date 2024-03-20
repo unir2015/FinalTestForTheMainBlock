@@ -16,7 +16,7 @@ class Program
             {
                 Console.WriteLine("Введите строки. Для завершения ввода введите пустую строку:");
 
-                string[] tempArray = new string[100]; // Предположим, что пользователь не введет более 100 строк
+                string[] tempArray = new string[100]; 
 
                 int currentIndex = 0;
 
