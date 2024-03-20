@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\FinalTestForTheMainBlock\bin\Debug\net7.0\FinalTestForTheMainBlock.exe
+C:\Users\User\Desktop\FinalTestForTheMainBlock\bin\Debug\net7.0\FinalTestForTheMainBlock.deps.json
+C:\Users\User\Desktop\FinalTestForTheMainBlock\bin\Debug\net7.0\FinalTestForTheMainBlock.runtimeconfig.json
+C:\Users\User\Desktop\FinalTestForTheMainBlock\bin\Debug\net7.0\FinalTestForTheMainBlock.dll
+C:\Users\User\Desktop\FinalTestForTheMainBlock\bin\Debug\net7.0\FinalTestForTheMainBlock.pdb
+C:\Users\User\Desktop\FinalTestForTheMainBlock\obj\Debug\net7.0\FinalTestForTheMainBlock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\FinalTestForTheMainBlock\obj\Debug\net7.0\FinalTestForTheMainBlock.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\FinalTestForTheMainBlock\obj\Debug\net7.0\FinalTestForTheMainBlock.AssemblyInfo.cs
+C:\Users\User\Desktop\FinalTestForTheMainBlock\obj\Debug\net7.0\FinalTestForTheMainBlock.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\FinalTestForTheMainBlock\obj\Debug\net7.0\FinalTestForTheMainBlock.dll
+C:\Users\User\Desktop\FinalTestForTheMainBlock\obj\Debug\net7.0\refint\FinalTestForTheMainBlock.dll
+C:\Users\User\Desktop\FinalTestForTheMainBlock\obj\Debug\net7.0\FinalTestForTheMainBlock.pdb
+C:\Users\User\Desktop\FinalTestForTheMainBlock\obj\Debug\net7.0\FinalTestForTheMainBlock.genruntimeconfig.cache
+C:\Users\User\Desktop\FinalTestForTheMainBlock\obj\Debug\net7.0\ref\FinalTestForTheMainBlock.dll
